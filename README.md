@@ -13,7 +13,7 @@ Students register, apply to research programs with a fixed number of seats, and 
 |------|-------------|------|
 | Ayzal Mirha | CT-26205 | Person 1: registration, login, profiles, matching |
 | Ayat Mirha | CT-26203 | Person 2: self-guided track, resource library |
-| Misbah Khan | CT-26215 | Person 3: admin, sorting, searching, reports, file handling |
+| Misbah Khan | CT-26216 | Person 3: admin, sorting, searching, reports, file handling |
 
 ## Features
 
